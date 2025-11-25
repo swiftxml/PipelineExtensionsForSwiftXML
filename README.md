@@ -1,2 +1,3 @@
 # PipelineExtensionsForSwiftXML
-Extension of the Pipeline package for SwiftXML.
+
+Extension of the [Pipeline](https://github.com/swiftxml/Pipeline) package for [SwiftXML](https://github.com/swiftxml/SwiftXML).
